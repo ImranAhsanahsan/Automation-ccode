@@ -1,0 +1,5 @@
+C:\Users\ImranAhsan\source\repos\automatiofisrtpractice\automatiofisrtpractice\obj\Debug\net5.0\automatiofisrtpractice.csproj.AssemblyReference.cache
+C:\Users\ImranAhsan\source\repos\automatiofisrtpractice\automatiofisrtpractice\obj\Debug\net5.0\automatiofisrtpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ImranAhsan\source\repos\automatiofisrtpractice\automatiofisrtpractice\obj\Debug\net5.0\automatiofisrtpractice.AssemblyInfoInputs.cache
+C:\Users\ImranAhsan\source\repos\automatiofisrtpractice\automatiofisrtpractice\obj\Debug\net5.0\automatiofisrtpractice.AssemblyInfo.cs
+C:\Users\ImranAhsan\source\repos\automatiofisrtpractice\automatiofisrtpractice\obj\Debug\net5.0\automatiofisrtpractice.csproj.CoreCompileInputs.cache

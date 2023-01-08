@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bncagEkmYFRWAXIU3HIi8xxhSBKFQUUTiNyxZBUagj0bzDEID3qrI0QWO2Sz4jqjfqCNtbOMXxG/vj/6EiCS8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ImranAhsan\\source\\repos\\automatiofisrtpractice\\automatiofisrtpractice\\automatiofisrtpractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ImranAhsan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ImranAhsan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ImranAhsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ImranAhsan\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\ImranAhsan\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\ImranAhsan\\.nuget\\packages\\selenium.support\\4.5.1\\selenium.support.4.5.1.nupkg.sha512",
+    "C:\\Users\\ImranAhsan\\.nuget\\packages\\selenium.webdriver\\4.5.1\\selenium.webdriver.4.5.1.nupkg.sha512",
+    "C:\\Users\\ImranAhsan\\.nuget\\packages\\selenium.webdriver.chromedriver\\106.0.5249.6100\\selenium.webdriver.chromedriver.106.0.5249.6100.nupkg.sha512"
+  ],
+  "logs": []
+}
